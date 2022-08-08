@@ -19,7 +19,8 @@
 ```bash
   node server
 ```
-5 - Super Admin credentials
+
+## Super Admin Access
 ```bash
   {
     "username" : "GIN97",
