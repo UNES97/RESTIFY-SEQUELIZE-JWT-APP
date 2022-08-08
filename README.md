@@ -19,3 +19,10 @@
 ```bash
   node server
 ```
+5 - Super Admin credentials
+```bash
+  {
+    "username" : "GIN97",
+    "password" : "123456"
+  }
+```
