@@ -1,5 +1,5 @@
 
-# RESTIFY + SEQUELIZE + JWT Authentication APP
+# RESTIFY + SEQUELIZE + JWT Auth
 ## Installation
 
 1 - Install dependencies 
